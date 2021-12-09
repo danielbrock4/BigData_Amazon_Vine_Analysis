@@ -56,6 +56,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 Overall, there appears to be a slight bias with Video Game Paid Amazon Reviews based on the overall percentage of 5 Star Reviews.
 - Paid Reviews: 51%
 - Unpaid Reviews: 39%
+
 With that said, that same bias could be by looking at Average 5-Star Rating:
 - Paid Reviews: 4.2
 - Unpaid Reviews: 3.35
