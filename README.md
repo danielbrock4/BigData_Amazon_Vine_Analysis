@@ -36,16 +36,16 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 - Unpaid Views: 40471
 
 **Total Number of 5-Star Reviews:**
- - Paid 5-Star Reviews: **48** out of 94
- - Unpaid 5-Star Reviews: **15663** out of 40471
+ - Paid 5-Star Reviews: 48
+ - Unpaid 5-Star Reviews: 15663
 
 **Percentage Of 5-Star Reviews:**
 - Paid Reviews: 51%
 - Unpaid Reviews: 39%
 
 **Average 5-Star Rating:**
-- Paid Reviews: **4.2** out of 5
-- Unpaid Reviews: **3.35** out of 5
+- Paid Reviews: 4.2
+- Unpaid Reviews: 3.35
 
 
 ## Challange Project Summary
