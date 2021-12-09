@@ -24,6 +24,8 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 
 ## Challenge Project Analysis
 
+[Analysis JupyterNotebook](resources/Vine_Review_Analysis.ipynb)
+
 ### **Relevancy Filters Applied:**
 - Amazon Video Game 
 - Reviews with 20+ Votes
