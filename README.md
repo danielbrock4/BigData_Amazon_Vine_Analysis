@@ -1,4 +1,4 @@
-# BIG DATA VIDEO GAME REVIEW ANALYSIS using AWS, PySpark, PostgresSQL, Google Colab, Python
+# Big Data Video Game Reviews Analysis using AWS, PySpark, PostgresSQL, Google Colab, Python
 
 
 
