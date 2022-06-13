@@ -1,4 +1,4 @@
-# Module 16: Big Data using AWS, PySpark, PostgresSQL, Google Colab, Python
+# BIG DATA VIDEO GAME REVIEW ANALYSIS using AWS, PySpark, PostgresSQL, Google Colab, Python
 
 
 
